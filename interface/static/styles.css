@@ -1,0 +1,245 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #e8f4fc;
+ 
+    height: 100vh;
+    margin: 0;
+}
+
+.login-container {
+    background-color: #ffffff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.15);
+    width: 350px;
+    text-align: center;
+
+    margin: 8% auto;
+}
+
+
+.dashboard-container, .response-container{
+    margin: 10% auto;
+    max-width: 50%;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1a73e8;
+    margin-bottom: 25px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    font-size: 16px;
+    color: #333;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #d1d9e6;
+    border-radius: 8px;
+    box-shadow: inset 0px 3px 6px rgba(0, 0, 0, 0.05);
+    background-color: #f0f8ff;
+    transition: border-color 0.3s ease;
+}
+
+input:focus {
+    outline: none;
+    border-color: #1a73e8; 
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    color: white;
+    background-color: #ff5722;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    box-shadow: 0px 5px 15px rgba(255, 87, 34, 0.4);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    font-weight: 500;
+}
+
+button:hover {
+    background-color: #e64a19;
+    box-shadow: 0px 8px 20px rgba(230, 74, 25, 0.5);
+}
+
+@media (max-width: 400px) {
+    .login-container {
+        width: 90%;
+    }
+
+    h2 {
+        font-size: 24px;
+    }
+
+    button {
+        font-size: 14px;
+    }
+}
+
+.header-nav {
+    max-width: 500px;
+}
+.question-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    margin: 4% 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 15px;
+}
+
+input {
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #5c67f2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4856d1;
+}
+
+textarea {
+    width: 97%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+}
+
+textarea:focus {
+    border-color: #5c67f2;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+    text-align: left;
+}
+
+td pre {
+    background-color: #f9f9f9;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.button-group {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.role-button {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    color: white;
+    background-color: #3f51b5;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.role-button:hover {
+    background-color: #303f9f;
+    box-shadow: 0px 8px 20px rgba(63, 81, 181, 0.5);
+}
+
+header {
+    background-color: #333;
+    padding: 10px;
+}
+
+.nav-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links li {
+    display: inline;
+    margin-right: 20px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.nav-links a:hover {
+    background-color: #575757;
+    border-radius: 4px;
+}
+
+.logout-button {
+    background-color: #e91e63;
+    padding: 10px 15px;
+    border-radius: 4px;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+.logout-button:hover {
+    background-color: #c2185b;
+}

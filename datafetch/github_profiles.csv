@@ -1,0 +1,918 @@
+Login,ID,Name,Email,Twitter,Followers,Following,No of Repos,Fork_avg
+mojombo,1,Tom Preston-Werner,tom@mojombo.com,mojombo,23927,11,66,75.96666667
+defunkt,2,Chris Wanstrath,,,22311,215,107,51.4
+pjhyett,3,PJ Hyett,pj@hyett.com,,8291,30,8,18.125
+wycats,4,Yehuda Katz,wycats@gmail.com,wycats,10200,13,293,3.266666667
+ezmobius,5,Ezra Zygmuntowicz,,,555,13,22,9
+ivey,6,Michael D. Ivey,ivey@gweezlebur.com,ivey,151,3,37,0.5
+evanphx,7,Evan Phoenix,evan@phx.io,evanphx,1627,9,182,4.566666667
+vanpelt,17,Chris Van Pelt,vanpelt@wandb.com,,365,20,59,1.333333333
+wayneeseguin,18,Wayne E Seguin,wayneeseguin@gmail.com,wayneeseguin,743,19,107,2.633333333
+brynary,19,Bryan Helmkamp,,,686,30,178,1.266666667
+kevinclark,20,Kevin Clark,kevin.clark@gmail.com,,113,6,43,1.5
+technoweenie,21,,technoweenie@hey.com,,2650,18,177,21.1
+macournoyer,22,Marc-André Cournoyer,macournoyer@gmail.com,macournoyer,1230,56,67,13.36666667
+takeo,23,Toby Sterrett,tobysterrett@gmail.com,takeo,94,11,22,0.954545455
+caged,25,Justin Palmer,encytemedia@gmail.com,caged,2373,44,166,0.466666667
+topfunky,26,Geoffrey Grosenbach,,,1357,250,84,13.73333333
+anotherjesse,27,Jesse Andrews,anotherjesse@gmail.com,,257,39,204,1.333333333
+roland,28,Roland,,,25,1,2,1.5
+lukas,29,Lukas Biewald,lukas@wandb.com,l2k,643,19,35,43.26666667
+fanvsfan,30,,,,25,0,0,0
+tomtt,31,Tom ten Thij,,,58,12,88,2.3
+railsjitsu,32,,,,19,0,0,0
+nitay,34,Nitay Joffe,,nitayj,50,0,7,0.428571429
+kevwil,35,Kevin Williams,,,56,23,42,1.166666667
+KirinDave,36,Dave Fayram,,,413,10,83,8.366666667
+jamesgolick,37,James Golick,jamesgolick@gmail.com,,643,30,110,6.933333333
+atmos,38,Corey Donohoe,atmos@atmos.org,,1324,167,170,15.53333333
+errfree,44,,,,7,0,2,0
+mojodna,45,Seth Fitzsimmons,,mojodna,596,114,321,0.633333333
+bmizerany,46,Blake Mizerany,blake.mizerany@gmail.com,,1434,41,168,3.466666667
+jnewland,47,Jesse Newland,jesse@jnewland.com,jnewland,739,102,128,2.233333333
+joshknowles,48,Josh Knowles,joshknowles@gmail.com,,116,43,14,4.642857143
+hornbeck,49,John Hornbeck,hornbeck@gmail.com,hornbeck,75,35,8,4.5
+jwhitmire,50,Jeff Whitmire,jeff@jwhitmire.com,,46,54,33,1.033333333
+elbowdonkey,51,Michael Buffington,,,33,9,50,0.833333333
+reinh,52,Rein Henrichs,,,201,1,207,0.233333333
+knzconnor,53,Kenzi Connor,kenzi@cloudcity.io,knzconnor,60,10,33,0.6
+bs,68,Britt Selvitelle,yap@bri.tt,,142,53,32,0.733333333
+rsanheim,69,Rob Sanheim,,rsanheim,211,31,42,1.2
+schacon,70,Scott Chacon,schacon@gmail.com,chacon,13602,26,208,69.96666667
+uggedal,71,Eivind Uggedal,,,183,0,49,0.666666667
+bruce,72,Bruce Williams,brwcodes@gmail.com,wbruce,354,40,118,3.366666667
+sam,73,Sam Smoot,ssmoot@gmail.com,,181,5,41,8.133333333
+mmower,74,Matt Mower,self@mattmower.com,sandbags,63,1,81,0.766666667
+abhay,75,Abhay Kumar,,abhay,170,1,42,7.833333333
+rabble,76,rabble,evan@protest.net,rabble,245,92,43,0.166666667
+benburkert,77,Ben Burkert,ben@benburkert.com,benburkert,209,7,140,1.133333333
+indirect,78,André Arko,andre@arko.net,,1009,0,246,0.333333333
+fearoffish,79,Jamie van Dyke,me@fearof.fish,,49,4,62,0.2
+ry,80,Ryan Dahl,ry@tinyclouds.org,,31290,39,57,1.8
+engineyard,81,"Engine Yard, Inc.",,,14,0,335,2.633333333
+jsierles,82,Joshua Sierles,,jsierles,264,0,180,1.166666667
+tweibley,83,Taylor Weibley,,,44,2,12,0.166666667
+peimei,84,E. James O'Kelly,james@railsjitsu.com,,11,0,5,3.4
+brixen,85,Brian Shirai,brixen@gmail.com,,348,4,128,0.3
+tmornini,87,Tom Mornini,,,49,4,14,0.357142857
+outerim,88,Lee Jensen,lee@outerim.com,,25,1,27,0.148148148
+daksis,89,R,,,68,52,6,3.833333333
+sr,90,Simon Rozet,me@simonrozet.com,,583,200,134,1.133333333
+lifo,91,lifo,,,609,54,13,12.15384615
+rsl,92,Russell Norris,sconds@gmail.com,,65,9,35,0.366666667
+imownbey,93,Ian Ownbey,,,81,66,67,0.666666667
+dylanegan,94,Dylan Egan,,,122,0,55,0.6
+jm,95,Jeremy McAnally,jeremymcanally@gmail.com,door_holder,527,31,133,1.333333333
+kmarsh,100,Kevin Marsh,kevin.marsh@gmail.com,willcodeforfoo,63,23,60,0.366666667
+jvantuyl,101,Jayson Vantuyl,jayson@aggressive.ly,jvantuyl,56,15,77,0.333333333
+BrianTheCoder,102,Brian Smith,wbsmith83@gmail.com,,89,32,109,0.366666667
+freeformz,103,Edward Muller,freeformz@gmail.com,,220,38,195,0.066666667
+hassox,104,Daniel Neighman,dneighman@gmail.com,,347,77,156,0.9
+automatthew,105,automatthew,automatthew@gmail.com,,72,16,21,1
+queso,106,Josh Owens,Joshua.owens@gmail.com,,343,23,83,0.2
+lancecarlson,107,Lance Carlson,,,127,103,138,0.466666667
+drnic,108,Dr Nic Williams,drnicwilliams@gmail.com,drnic,1773,11,672,1.433333333
+lukesutton,109,Luke Matthew Sutton,,,51,4,18,0.055555556
+danwrong,110,Dan Webb,,,349,31,32,17.1
+HamptonMakes,111,Hampton Lintorn-Catlin,hampton@hamptoncatlin.com,,664,6,72,0.2
+jfrost,112,Jeff Frost,,,20,1,12,0.25
+mattetti,113,Matt Aimonetti,,,1069,10,300,1.766666667
+ctennis,114,Caleb Tennis,c@leb.tennis,,26,0,10,2.3
+lawrencepit,115,L Pit,lawrence.pit@gmail.com,,33,6,27,4.222222222
+marcjeanson,116,Marc Jeanson,github@marcjeanson.com,,41,22,33,0.2
+grempe,117,Glenn Rempe,,grempe,126,27,42,10.43333333
+peterc,118,Peter Cooper,git@peterc.org,,672,62,44,5.266666667
+ministrycentered,119,Ministry Centered Technologies,,,9,0,72,0.133333333
+afarnham,120,Aaron Farnham,,afarnham,33,20,45,0.2
+up_the_irons,121,Garry Dolley,,,37,7,47,1.533333333
+cristibalan,122,Cristi Balan,cristibalan@gmail.com,,87,33,24,2.375
+heavysixer,123,Mark Daggett,,,101,39,41,2.133333333
+brosner,124,Brian Rosner,brosner@gmail.com,,961,111,114,4.7
+danielmorrison,125,Daniel Morrison,daniel@collectiveidea.com,danielmorrison,119,19,33,0.266666667
+danielharan,126,Daniel Haran,chebuctonian@gmail.com,,90,35,33,1.766666667
+kvnsmth,127,KLS,,,115,0,32,0.3
+collectiveidea,128,Collective Idea,,,40,0,178,43.6
+canadaduane,129,Duane Johnson,duane.johnson@gmail.com,,175,22,239,0.733333333
+corasaurus-hex,130,Cora Sutton,cora@sutton.me,corasaurus_hex,105,3,41,0.3
+dstrelau,131,Dean Strelau,,,72,43,46,0
+sunny,132,Sunny Ripert,sunny@sunfox.org,,340,138,240,1.966666667
+dkubb,133,Dan Kubb,github@dan.kubb.ca,dkubb,546,12,45,4.066666667
+jnicklas,134,Jonas Nicklas,jonas@jnicklas.com,,846,8,147,1.3
+richcollins,135,Rich Collins,richcollins@gmail.com,,56,4,28,0.464285714
+jvantuyl,101,Jayson Vantuyl,jayson@aggressive.ly,jvantuyl,56,15,77,0.333333333
+BrianTheCoder,102,Brian Smith,wbsmith83@gmail.com,,89,32,109,0.366666667
+freeformz,103,Edward Muller,freeformz@gmail.com,,220,38,195,0.066666667
+hassox,104,Daniel Neighman,dneighman@gmail.com,,347,77,156,0.9
+automatthew,105,automatthew,automatthew@gmail.com,,72,16,21,1
+queso,106,Josh Owens,Joshua.owens@gmail.com,,343,23,83,0.2
+lancecarlson,107,Lance Carlson,,,127,103,138,0.466666667
+drnic,108,Dr Nic Williams,drnicwilliams@gmail.com,drnic,1773,11,672,1.433333333
+lukesutton,109,Luke Matthew Sutton,,,51,4,18,0.055555556
+danwrong,110,Dan Webb,,,349,31,32,17.1
+HamptonMakes,111,Hampton Lintorn-Catlin,hampton@hamptoncatlin.com,,664,6,72,0.2
+jfrost,112,Jeff Frost,,,20,1,12,0.25
+mattetti,113,Matt Aimonetti,,,1069,10,300,1.766666667
+ctennis,114,Caleb Tennis,c@leb.tennis,,26,0,10,2.3
+lawrencepit,115,L Pit,lawrence.pit@gmail.com,,33,6,27,4.222222222
+marcjeanson,116,Marc Jeanson,github@marcjeanson.com,,41,22,33,0.2
+grempe,117,Glenn Rempe,,grempe,126,27,42,10.43333333
+peterc,118,Peter Cooper,git@peterc.org,,672,62,44,5.266666667
+ministrycentered,119,Ministry Centered Technologies,,,9,0,72,0.133333333
+afarnham,120,Aaron Farnham,,afarnham,33,20,45,0.2
+up_the_irons,121,Garry Dolley,,,37,7,47,1.533333333
+cristibalan,122,Cristi Balan,cristibalan@gmail.com,,87,33,24,2.375
+heavysixer,123,Mark Daggett,,,101,39,41,2.133333333
+brosner,124,Brian Rosner,brosner@gmail.com,,961,111,114,4.7
+danielmorrison,125,Daniel Morrison,daniel@collectiveidea.com,danielmorrison,119,19,33,0.266666667
+danielharan,126,Daniel Haran,chebuctonian@gmail.com,,90,35,33,1.766666667
+kvnsmth,127,KLS,,,115,0,32,0.3
+collectiveidea,128,Collective Idea,,,40,0,178,43.6
+canadaduane,129,Duane Johnson,duane.johnson@gmail.com,,175,22,239,0.733333333
+corasaurus-hex,130,Cora Sutton,cora@sutton.me,corasaurus_hex,105,3,41,0.3
+dstrelau,131,Dean Strelau,,,72,43,46,0
+sunny,132,Sunny Ripert,sunny@sunfox.org,,340,138,240,1.966666667
+dkubb,133,Dan Kubb,github@dan.kubb.ca,dkubb,546,12,45,4.066666667
+jnicklas,134,Jonas Nicklas,jonas@jnicklas.com,,846,8,147,1.3
+richcollins,135,Rich Collins,richcollins@gmail.com,,56,4,28,0.464285714
+simonjefford,136,Simon Jefford,,,34,3,84,0.1
+josh,137,Joshua Peek,,,2433,222,37,6.866666667
+stevedekorte,138,Steve Dekorte,steve@dekorte.com,stevedekorte,663,16,24,7.25
+leahneukirchen,139,Leah Neukirchen,leah@vuxu.org,,1249,9,195,2.533333333
+jwreagor,140,J R,,,49,8,69,0.333333333
+technomancy,141,Phil Hagelberg,phil@hagelb.org,,2099,0,98,34.06666667
+kenphused,142,Ken Nordquist,,,8,0,1,0
+rubyist,143,Scott Barron,,,388,0,77,4.533333333
+ogc,144,OGC,,,3,0,2,0.5
+lazyatom,145,James Adam,james@lazyatom.com,lazyatom,204,18,92,2.1
+jdhuntington,147,JD Huntington,jdhuntington@gmail.com,,57,22,96,0.066666667
+nwebb,148,,,,6,0,0,0
+nsutton,149,,,,6,0,0,0
+sevenwire,150,Sevenwire,,,3,0,14,10.07142857
+brandonarbini,151,Brandon Arbini,b@arbini.dev,,25,5,6,0.166666667
+al3x,152,Alex Payne,al3x@al3x.net,,1050,53,47,2.333333333
+toolmantim,153,Tim Lucas,t@toolmantim.com,,454,66,105,1.166666667
+nicksieger,154,Nick Sieger,nick@nicksieger.com,nicksieger,277,21,106,0.233333333
+jicksta,155,Jay Phillips,,,94,12,52,1.466666667
+joshsusser,156,Josh Susser,josh@hasmanythrough.com,,286,11,16,2.6875
+jcrosby,157,Jon Crosby,jon@joncrosby.me,,187,19,28,2.107142857
+thewoolleyman,158,Chad Woolley,thewoolleyman@gmail.com,,131,49,205,0.166666667
+technicalpickles,159,Josh Nichols,joshua.nichols@gmail.com,techpickles,989,181,358,0.7
+halbtuerke,160,Patrick,,,55,34,77,0.3
+ryanb,161,Ryan Bates,ryan@railscasts.com,,7687,96,73,85.4
+cnix,162,Claude Nix,claude@seadated.com,cnix,33,19,24,0.25
+tpitale,163,Tony Pitale,,,126,71,47,3.9
+cdcarter,164,Christian Carter,christian.carter@salesforce.com,,40,15,91,0.533333333
+atduskgreg,165,Greg Borenstein,,,701,39,228,1.133333333
+heff,166,Steve Heffernan,,heff,387,12,78,0.333333333
+entryway,167,entryway,,,2,0,7,0.285714286
+aflatter,168,Alexander Flatter,alex@tevim.com,aflatter,84,39,68,3.166666667
+schofield,169,Grant Schofield,grant@surlysoft.com,,17,0,18,0
+rbazinet,170,Rob Bazinet,rbazinet@stillriversoftware.com,rbazinet,43,137,45,0.033333333
+tranqy,171,Aaron Junod,aaron.junod@zsuitetech.com,tranqy,25,11,23,0.173913043
+robey,172,Robey Pointer,robeypointer@gmail.com,,540,17,2,0
+bkeepers,173,Brandon Keepers,,bkeepers,2003,61,191,17.86666667
+wilson,174,Wilson Bilkovich,wilsonb@gmail.com,,80,7,49,0.266666667
+tommorris,175,Tom Morris,tom@tommorris.org,,224,70,142,0.533333333
+charlesroper,176,Charles Roper,github@charlie.mozmail.com,,47,51,55,0.266666667
+adamwiggins,177,Adam Wiggins,a@adamwiggins.com,_adamwiggins_,990,16,99,31.46666667
+myobie,179,Nathan,me@nathanherald.com,myobie,207,48,167,0.233333333
+samgranieri,180,Sam Granieri,sam@samgranieri.com,samgranieri,48,108,73,0.1
+adam,181,Adam French,adam.french@cpanel.net,,0,0,11,0.454545455
+mtodd,182,Matt Todd,chiology@gmail.com,,833,493,162,0.5
+timcharper,183,Tim Harper,timcharper@gmail.com,,276,37,178,7.466666667
+paul,184,Paul Sadauskas,psadauskas@gmail.com,theamazingrando,121,3,164,0.633333333
+DocSavage,185,Bill Katz,billkatz@gmail.com,,105,20,58,3.233333333
+shane,186,Shane Vitarana,shanev@gmail.com,,6,1,1,3
+vlucas,187,Vance Lucas,vance@vancelucas.com,vlucas,833,35,100,9.7
+nex3,188,Natalie Weizenbaum,nex342@gmail.com,,2182,0,147,0.3
+max-xx,189,,,,6,0,0,0
+norbauer,190,Norbauer Inc,consulting@norbauer.com,,26,0,11,2.909090909
+crigor,191,Christopher Rigor,crigor@gmail.com,,43,0,79,0.666666667
+knowtheory,192,Ted Han,ted@knowtheory.net,,209,87,44,0.1
+bernerdschaefer,193,Bernerd Schaefer,bj.schaefer@gmail.com,,126,0,82,2.133333333
+zapnap,194,nap,nap@zerosum.org,zapnap,213,52,117,0.666666667
+testdude,195,,,,5,0,0,0
+galinv,196,Galin Vassilev,,,5,0,2,0
+NZKoz,197,Michael Koziarski,michael@koziarski.com,nzkoz,381,0,40,76.46666667
+croaky,198,Dan Croak,,,409,344,16,1.9375
+jeremy,199,Jeremy Daer,jeremy@hey.com,bitsweat,1457,128,93,0.533333333
+ELLIOTTCABLE,200,,github-public@from.ec,,431,826,242,0.633333333
+monde,201,Mike Mondragon,mikemondragon@gmail.com,,98,34,20,0.7
+ryanbriones,202,Ryan Carmelo Briones,,,135,33,71,0.666666667
+monde,201,Mike Mondragon,mikemondragon@gmail.com,,98,34,20,0.7
+ryanbriones,202,Ryan Carmelo Briones,,,135,33,71,0.666666667
+wfarr,203,Will Farrington,,,285,34,179,1.066666667
+jseifer,204,Jason Seifer,me@jasonseifer.com,,235,21,15,2.2
+symlink,205,Bobby Gaza,bobby@symlinked.com,,22,19,2,0
+sprsquish,206,Jeff Smick,jeff@squishtech.com,,175,58,4,1
+codahale,207,Coda Hale,,,2110,19,124,1.733333333
+zackchandler,208,Zack Chandler,zackchandler@gmail.com,,18,0,19,1.736842105
+jakehow,209,Jake Howerton,,,41,12,57,0.5
+evan,210,Evan Weaver,,evan,206,7,39,6.666666667
+olleolleolle,211,Olle Jonsson,olle.jonsson@gmail.com,,353,328,1533,0.066666667
+chrismcg,212,Chris McGrath,chris@chrismcg.com,,65,14,65,0.3
+chuyeow,213,Cheah Chu Yeow,chuyeow@gmail.com,chuyeow,133,56,73,0.9
+mloughran,214,Martyn Loughran,martyn@mloughran.com,,79,8,19,7.421052632
+matthewford,215,Matthew Ford,matt@bitzesty.com,matthewcford,74,54,77,0.1
+henrik,216,Henrik Nyh,henrik@nyh.se,,428,23,276,0.5
+tkersey,217,Tim Kersey,,,431,1092,37,0.4
+acf,218,Alan Francis,acf+github@alancfrancis.com,,58,2,4,0
+dan,219,Dan Benjamin,dan@benjamin.org,danbenjamin,459,16,7,0.571428571
+seebq,220,Charles Brian Quinn,me@seebq.com,,79,15,27,0.444444444
+delynn,221,DeLynn Berry,delynn@gmail.com,,39,13,51,0
+spicycode,222,Chad Humphries,,,285,31,36,0.766666667
+ntalbott,223,Nathaniel Talbott,nathaniel@talbott.ws,ntalbott,131,46,22,2.636363636
+rdempsey,224,Robert Dempsey,robertonrails@gmail.com,,90,22,50,1.366666667
+mjankowski,225,Matt Jankowski,matt@jankowski.online,jankowski,140,0,29,0
+danahern,226,Dan Ahern,,,34,1,17,0.117647059
+dctanner,227,Damien Tanner,,,80,11,35,0.6
+alexvollmer,228,Alex Vollmer,,,77,8,33,3.633333333
+RailsAddict,229,,,,4,0,1,0
+scharfie,230,Chris Scharf,scharfie@gmail.com,,30,5,114,0.233333333
+jhardy-deleteme,231,Jeffrey Hardy,,,6,0,0,0
+daikini,232,Jonathan Younger,jonathan@daikini.com,,28,1,33,1.1
+tdreyno,233,Thomas Reynolds,me@tdreyno.com,,395,1,49,3.4
+ryenski,234,Ryan Heneise,,Booster_Stage,42,49,87,0.466666667
+jnunemaker,235,John Nunemaker,nunemaker@gmail.com,jnunemaker,1962,266,76,11.73333333
+shayarnett,236,Shay,,,113,36,35,0.433333333
+chad,237,Chad Fowler,chad@chadfowler.com,chadfowler,921,31,95,1.8
+superphly,238,Cody Marx Bailey,superphly@gmail.com,,40,18,18,0.222222222
+swhitt,239,Steve Whittaker,swhitt@gmail.com,,22,25,17,1.058823529
+bryanl,240,Bryan Liles,iam@smartic.us,,545,7,248,0.466666667
+jschairb,241,Josh Schairbaum,joshua.schairbaum@gmail.com,jschairb,45,28,75,0.166666667
+adelcambre,242,Andy Delcambre,adelcambre@gmail.com,,170,5,100,0.266666667
+psi,243,JD Harrington,jd@jdharrington.net,,39,9,82,1
+watsonian,244,Joel Watson,,,100,1,35,0.8
+marcel,245,Marcel Molina,,,225,24,28,17.5
+brapse,246,Sean Braithwaite,brapse@gmail.com,,59,11,27,0.222222222
+francois,247,François Beausoleil,francois@teksol.info,,98,2,158,0.5
+aditya,248,Aditya Chadha,achadha@glgroup.com,,36,8,15,0.2
+agile,249,Mike Vincent,mike@vincent.ws,,57,94,32,0.1
+itstommymorgan,250,Tommy Morgan,tommy@tommymorgan.name,itstommymorgan,86,16,9,10.55555556
+toretore,251,Tore Darell,toredarell@gmail.com,,36,4,38,7.4
+vangberg,252,Harry Vangberg,harry@vangberg.name,,115,16,30,2.933333333
+jchris,253,Chris Anderson,jchris@gmail.com,jchris,673,40,211,5.2
+gspederson,254,Greg Pederson,Greg@nsightdevelopment.com,,14,4,7,0.428571429
+psq,255,Pascal,psq@nanorails.com,psq,46,0,74,0.666666667
+andreimaxim,256,Andrei Maxim,andrei@andreimaxim.ro,rockatanescu,48,3,20,0.9
+robbyrussell,257,Robby Russell,,robbyrussell,4620,86,50,2.466666667
+kommen,258,Dieter Komendera,dieter@komendera.com,,85,7,69,0.133333333
+protocool,259,Trevor Squires,,,73,0,8,11.375
+maddox,260,Jon Maddox,jon@jonmaddox.com,,862,6,146,3.1
+jswanner,261,Jacob Swanner,,,90,5,58,2.533333333
+kastner,262,Erik Kastner,kastner@gmail.com,,210,56,132,0.333333333
+halorgium,263,Tim Carey-Smith,,,0,0,292,0.566666667
+merb,264,Merb,,,5,0,14,6.642857143
+lachie,265,Lachie Cox,lachiec@gmail.com,,83,28,90,0.366666667
+anildigital,266,Anil Wadghule,anil.wadghule@erlang-solutions.com,,124,36,129,0.7
+cwsaylor,267,Chris Saylor,cwsaylor@gmail.com,,47,22,25,0.88
+pdsphil,268,Phil Ripperger,phil@pdatasolutions.com,,24,4,9,2.555555556
+kamal,269,Kamal Fariz Mahyuddin,kamal.fariz@gmail.com,,154,62,52,0.433333333
+bleything,270,Ben Bleything,ben@bleything.net,bleything,176,43,41,6.9
+pergesu,271,,pat.maddox@gmail.com,,10,0,0,0
+caplis,272,Tim,,,25,19,14,0.071428571
+jqr,273,Elijah Miller,elijah.miller@gmail.com,,143,63,76,4.866666667
+mattslack,274,Matt Slack,,,37,7,21,0.047619048
+tjogin,275,Tomas Jogin,tomas@jogin.com,,20,6,2,0
+robbevan,276,Rob Bevan,robbevan@xpt.com,,27,21,56,0.233333333
+marten,277,Marten Veldthuis,marten@veldthuis.com,,29,2,90,0.166666667
+gnufied,278,Hemant Kumar,,,288,116,220,1.4
+hoverbird,279,Phenry Ewing,,hoverbird,419,195,49,0.433333333
+beccasaurus,280,Rebecca Taylor,,rebeccca_taylor,464,0,71,0.233333333
+joshuamckenty,281,Joshua McKenty,jmckenty@gmail.com,jmckenty,110,93,92,0.566666667
+dfl,282,David Löwenfels,,,37,14,59,0.5
+floydprice,283,Floyd Price,floyd@hampton.io,,14,3,52,0.1
+allison-lara,284,Allison Lara,allison@github.alliesaur.us,,33,8,25,0.04
+activestylus,285,,,,25,4,51,0.7
+archfear,286,Dan Dofter,dan@dofter.com,,54,8,25,1.12
+mudge,287,Paul Mucur,,mudge,112,15,92,0.466666667
+johnny,288,Jonas von Andrian,,,44,4,26,17.19230769
+scott-steadman,290,Scott Steadman,,,39,29,21,0.19047619
+noteflakes,291,Sharon Rosner,sharon@noteflakes.com,,217,28,14,8.071428571
+doudou,292,Sylvain Joyeux,sylvain.joyeux@m4x.org,,68,1,77,0.333333333
+david,293,David Leal,,,62,2,9,14.44444444
+pedromg,294,pedro mg,,pedro_mg,40,62,57,4.966666667
+wayne,295,Wayne Seguin,,,9,1,0,0
+Steve,296,Steve Sanderson,,stevesanderson,28,0,33,0.7
+mark,297,Mark Josef,McPhage@gmail.com,,83,26,40,0.633333333
+ambethia,298,Jason L Perry,,,273,98,226,0.333333333
+halfbyte,299,Jan Krutisch,jan@krutisch.de,halfbyte,193,9,221,0.466666667
+cannikin,300,Rob Cameron,cannikin@fastmail.com,cannikin,159,6,145,0.3
+anthonylewis,301,Anthony Lewis,me@anthonylewis.com,,52,1,51,0.466666667
+anthonylewis,301,Anthony Lewis,me@anthonylewis.com,,52,1,51,0.466666667
+mcornick,302,Mark Cornick,mark@markcornick.com,,27,4,10,0.8
+itfische,303,Ian,,,24,0,12,0
+ivoencarnacao,304,,,,10,0,0,0
+mcg,305,Matthew Gregg,mcg@braintube.com,,28,2,35,0
+sco,306,Scott Raymond,sco@scottraymond.net,sco,531,511,33,0.466666667
+norio,307,Norio Shimizu,,,106,78,5,0
+anttih,308,Antti Holvikari,mail@anttih.com,,59,33,84,0.266666667
+vintrepid,309,Vince Nibler,,,5,3,65,0
+bigfleet,310,Jim Van Fleet,jim@jimvanfleet.com,bigfleet,109,26,61,0.6
+lypanov,311,Alexander Kellett,,,10,0,60,0.233333333
+ropiku,312,Mihai Anca,,ropiku,61,45,5,0
+rds,313,Rich,,,7,0,30,0.233333333
+zmoazeni,314,Zach Moazeni,zach.moazeni@gmail.com,,136,48,59,9.433333333
+edwinmoss,315,Edwin Moss,ed.moss@4ssom.com,,11,1,9,7.333333333
+tomfarm,316,Thomas Winkler,tom@formrausch.com,,25,30,39,0
+TheNicholasNick,317,Nicholas Orr,the.nicholas.nick@gmail.com,TheNicholasNick,18,0,64,1.333333333
+bumi,318,Michael Bumann,hello@michaelbumann.com,bumi,467,546,184,0.3
+dag,319,Dag Odenhall,dag.odenhall@gmail.com,,96,30,100,1.233333333
+ruckus,320,Cody Caughlan,c+g@ruckusing.com,,65,20,29,18.17241379
+mlins,321,Matt Lins,mattlins@gmail.com,,15,3,39,0.266666667
+luke,322,,,,0,0,7,0
+labria,323,Dimitri Krassovski,labria@startika.com,,58,8,17,0.352941176
+raymorgan,324,,,,8,0,1,3
+edward,325,Edward Ocampo-Gooding,,edwardog,326,79,124,0.3
+dsiem,326,Daniel Siemssen,,,11,3,5,0.6
+talaris,327,Kyle Burckhard,kyle@vorpalcode.com,,40,20,15,0.266666667
+jrun,328,Jeremy Burks,jeremy@burkshouse.com,,28,6,24,2.208333333
+chris,329,Chris Bailey,chris@cobaltedge.com,,68,2,35,1.7
+thejohnny,330,,,,24,4,20,0.25
+vic,331,Victor Borja,vborja@apache.org,oeiuwq,455,1019,351,0.666666667
+thelibrarian,332,Tony Kemp,,,8,3,9,0.222222222
+harukizaemon,333,Simon Harris,,,89,2,5,0
+ttcremers,334,Thomas Cremers,ttcremers@gmail.com,,20,6,38,0.033333333
+bitbckt,335,Brandon Mitchell,,,54,12,9,0.333333333
+brupm,336,Bruno Miranda,bmiranda+auto@doximity.com,brupm,65,23,31,0
+v3rb0,337,,,,6,5,1,0
+hchoroomi,338,H Choroomi,,,58,45,52,0.1
+igouss,339,Iouri Goussev,,,23,14,24,0.25
+jamesmacaulay,340,James MacAulay,,,150,0,59,1.1
+jacobeus,341,Nicolas Jacobeus,njacobeus@gmail.com,jacobeus,21,0,8,0.75
+djd,342,DJ Davis,,,10,0,4,0
+octave,343,Octave Zangs,,octavez,17,5,12,0.083333333
+damon,344,Damon Clinkscales,,,134,94,16,0.25
+sbusso,346,Stéphane Busso,,sbusso,175,147,912,0
+tobi,347,Tobias Lütke,,,2243,53,61,47
+raggi,348,James Tucker,jftucker@gmail.com,raggi,790,243,178,2.233333333
+tooky,349,Steve Tooke,steve@took.es,tooky,51,23,128,0.666666667
+aurelian,350,Aurelian Oancea,,,46,8,32,1.166666667
+cnantais,351,zkron,,,6,3,2,0
+gthoppae,352,Gnanasekaran Thoppae,,,12,17,16,0
+lukemelia,353,Luke Melia,luke@lukemelia.com,lukemelia,238,8,149,0.333333333
+ncdc,354,Andy Goldstein,,,227,37,163,0.1
+bendik,355,Bendik Aagaard Lynghaug,bendik@lynghaug.me,kidneb,49,86,17,0
+sbraford,356,Shanti Braford,shantibraford@gmail.com,,22,15,6,1.833333333
+mpalmer,357,Matt Palmer,,,98,0,183,0.866666667
+jens,358,Jens Norrgrann,jens.norrgrann@bukowskis.com,,12,1,15,0.133333333
+moneyspyder,359,Moneyspyder,,,1,0,52,0.433333333
+tslocke,360,Tom Locke,,,73,1,70,4.266666667
+deletepls,361,,,,8,0,0,0
+jellybob,362,Jon Wood,jon@blankpad.net,,50,6,79,0.666666667
+mascarenhas,363,Fabio Mascarenhas,mascarenhas@gmail.com,,109,13,36,2.233333333
+zroetemeyer,364,,,,4,0,0,0
+pius,365,Pius Uzamere,pius@alum.mit.edu,,74,43,85,0.2
+nullstyle,366,Scott Fleckenstein,nullstyle@gmail.com,nullstyle,163,12,121,0.466666667
+smogzer,367,,,,4,0,0,0
+guillaume,368,Guillaume Carbonneau,guillaume.carbonneau@gmail.com,,25,10,42,0.1
+samaaron,369,Sam Aaron,samaaron@gmail.com,samaaron,1759,29,115,0.633333333
+endersonmaia,370,Enderson Maia,endersonmaia@gmail.com,,103,48,67,0.166666667
+flowers,371,Flowers in Space,developers@flowersinspace.com,,10,0,3,0.666666667
+adamlogic,372,Adam McCrea,adam@adamlogic.com,adamlogic,91,0,71,0.833333333
+alx,373,Alexandre Girard,git@alexgirard.com,,201,92,261,0.1
+sproutit,374,Sproutit/SproutCore,,,3,0,21,7.047619048
+augustl,375,August Lilleaas,august@augustl.com,,196,0,48,3.566666667
+eb1024,376,,,,4,0,1,0
+tpope,378,Tim Pope,tpope@tpope.net,tpope,21110,20,84,8.7
+methodmissing,379,Lourens Naudé,lourens@methodmissing.com,,336,182,105,0.266666667
+mariusz,380,Mariusz Cieśla,,dotmariusz,61,3,35,0.666666667
+palmamartin,381,Martin Palma,,,25,88,33,0
+garyblessington,382,Gary Blessington,gary@planetargon.com,,16,0,4,0.75
+kangax,383,Juriy Zaytsev,kangax@gmail.com,,3308,16,81,1.033333333
+sd,384,Sebastian Delmont,sd@notso.net,sd,177,0,54,0.8
+drew,385,Drew Newberry,,,34,6,11,0
+brainopia,386,Ravil Bayramgalin,,brainopia,186,19,62,0.466666667
+wvl,387,Wayne Larsen,wayne@larsen.st,,31,11,43,0.333333333
+therealadam,388,Adam Keys,,,226,172,61,0.566666667
+therubymug,389,Rogelio J. Samour,rogelio@therubymug.com,,114,10,22,2.772727273
+chrisgriffin,390,Chris Griffin,me@chrisgriffin.org,,32,28,1,0
+graemepa,391,,,,11,0,0,0
+jasonherald,392,Jason Herald,jason.herald@me.com,,15,10,25,0
+bruno,393,Bruno Mattarollo,bruno.mattarollo@gmail.com,,66,79,33,1.233333333
+revans,394,Robert Evans,,,106,21,49,0.266666667
+jameshill,395,James Hill,,,37,28,1,0
+trankas,396,João Estêvão,trankas@gmail.com,,8,15,0,0
+crafterm,397,Marcus Crafter,crafterm@redartisan.com,,178,107,25,2.76
+mattallen,398,Matt Allen,matt@allen.com.au,,32,0,33,0.366666667
+dgoodlad,399,David Goodlad,david@goodlad.net,,119,7,107,0.4
+esaul,400,,,,10,0,291,0
+trevorturk,402,Trevor Turk,trevorturk@gmail.com,,333,183,77,2.866666667
+svrishi,403,,,,7,0,3,0
+trevorturk,402,Trevor Turk,trevorturk@gmail.com,,333,183,77,2.866666667
+svrishi,403,,,,7,0,3,0
+rtomayko,404,rtomayko,r@tomayko.com,,2357,100,22,42.77272727
+timburks,405,Tim Burks,timburks@me.com,,684,117,152,1.033333333
+gaveen,406,Gaveen Prabhasara,,,36,19,9,0.777777778
+waqas,407,Waqas,,,12,0,1,0
+dpetersen,408,Don Petersen,don@donpetersen.net,donjpetersen,30,1,21,0.428571429
+antonithock,409,Thock,antonithock@gmail.com,,15,1,7,0
+fivethreeo,410,Øyvind Saltvik,oyvind.saltvik@gmail.com,,66,30,138,0.533333333
+tandibar,411,Andreas Bade,andi.bade@gmail.com,,35,25,47,1.3
+cmer,412,Carl Mercier,,,134,34,192,0.166666667
+trotter,413,Trotter Cashion,tcashion@riotgames.com,,161,0,117,1.6
+dudleyf,414,Dudley Flanders,dudleyflanders@gmail.com,,33,3,31,0.266666667
+kevinansfield,415,Kevin Ansfield,kevin@lookingsideways.co.uk,lookingsideways,146,0,90,0
+luigi,417,Luigi Ray-Montañez,luigi.ray-montanez@coforma.io,,125,28,23,2.913043478
+mattswasey,418,Matt Swasey,,,3,0,0,0
+gotascii,419,Justin Marney,gotascii@gmail.com,,41,10,56,0.2
+rozza,420,Ross Lawley,ross.lawley@gmail.com,,312,23,109,2.4
+frankbolero,421,Frank Bolero,,,39,62,6,0
+shadowmaru,422,Ricardo Shiota Yasuda,,,163,19,84,0.133333333
+antunderwood,423,Anthony Underwood,,bioinformAnt,46,4,99,0.833333333
+dfugere,424,David,,,25,27,23,0
+james,425,James Darling,james@abscond.org,,181,37,80,0.433333333
+xraid,426,xraid,,,7,2,12,0.083333333
+wijet,427,Mariusz Pietrzyk,,,35,15,20,0.7
+parabuzzle,428,Mike Heijmans,parabuzzle@gmail.com,,0,0,108,1.366666667
+damienmckenna,429,Damien McKenna,damien@mc-kenna.com,DamienMcKenna,41,0,52,0.033333333
+nz,430,Nick Zadrozny,nz@omc.io,nz_,63,37,73,0.3
+tynino,431,Tyler Ferrier,,,8,1,12,0
+allan,432,allan,mail at may.mooo.com,,8,5,5,1
+bscofield,433,Ben Scofield,,bscofield,92,12,36,1.266666667
+tkofol,434,Tim Kofol,tkofol@gmail.com,,5,1,4,0.5
+trey,435,Trey Piepmeier,,,145,177,40,0.633333333
+jimmy,436,Jimmy Kittiyachavalit,,,48,2,13,0.384615385
+foca,437,Nicolás Sanguinetti,foca@foca.io,,365,95,199,0.466666667
+mathie,438,Graeme Mathieson,mathie@woss.name,,85,35,45,1.533333333
+jarkko,439,Jarkko Laine,jarkko@jlaine.net,jarkko,26,0,48,0.266666667
+norbert,440,Norbert Crombach,norbert.crombach@primetheory.org,,86,63,56,0.4
+jduff,441,John Duff,,,132,56,76,0.433333333
+gpaul,442,Gustav Paul,gustav.paul@gmail.com,,38,5,92,0.166666667
+pablete,443,Pablo A. Delgado,pablete@gmail.com,,81,92,26,0.076923077
+mokolabs,444,Patrick Crowley,patrick@mokolabs.com,mokolabs,64,36,45,0.9
+awilliam,445,Alex Williamson,alex.williamson@redhat.com,,106,0,25,3.96
+dysinger,447,Dysinger,,,238,12,85,0.033333333
+intabulas,448,Mark Lussier,mlussier@gmail.com,,69,48,28,0.357142857
+avalade,449,Aaron D. Valade,,,24,11,39,0.6
+ljsc,450,Lou Scoras,,,37,19,30,0.233333333
+djdarkbeat,451,Brian Loomis,brian@customated.com,,31,118,217,0
+yrashk,452,Yurii Rashkovskii,yrashk@gmail.com,yrashk,720,594,298,0.466666667
+famulus,453,,,,36,1,12,1.166666667
+rks,454,Randy Souza,,,20,12,41,0
+chriskaukis,455,Chris,,,20,3,24,0
+caffo,456,Rodrigo Franco,,,327,0,67,0.266666667
+timperrett,458,Timothy Perrett,,,221,16,127,0.066666667
+voodootikigod,459,Chris Williams,voodootikigod@gmail.com,voodootikigod,704,115,120,0.7
+kwe,460,Kevin Evans,kwevans@gmail.com,kwe,25,23,114,0.066666667
+bernd,461,Bernd Ahlers,,,146,35,106,0.933333333
+winson,462,winson,,,18,33,0,0
+cblackburn,463,Chris Blackburn,,,5,2,3,0
+kunstreich,464,Hannes Kunstreich,hannes@kunstreich.name,,19,12,9,0.333333333
+emanuel,465,Emanuel Mota,emanuel@yarilabs.com,emota7,37,44,24,0
+cdwillie76,466,Chris Williams,chris.d.williams@gmail.com,,12,6,11,0.181818182
+mando,467,Mando Escamilla,mando@mando.org,,60,49,58,0.166666667
+zh,468,Stoyan Zhekov,zh@zhware.net,,153,56,131,0.633333333
+brandon-beacher,469,Brandon Beacher,brandon.beacher@gmail.com,,36,45,34,0.333333333
+eric,470,Eric Lindvall,eric@5stops.com,lindvall,247,42,210,0.233333333
+iwarshak,471,Ian Warshak,iwarshak@stripey.net,iwarshak,40,6,65,0.2
+sudara,472,Sudara,sudara@rubytune.com,,247,14,87,5.7
+choonkeat,473,Chew Choon Keat,choonkeat@gmail.com,choonkeat,180,20,143,1.033333333
+cbowns,474,Christopher Bowns,,,93,40,62,1.466666667
+aussiegeek,475,Alan Harper,,,63,0,47,0.833333333
+zacheryph,476,Zachery Hostens,zacheryph@gmail.com,,41,30,33,3.3
+dustym,477,Dusty Matthews,,,41,21,10,0
+benjamin,478,Benjamin Birnbaum,benjamin@wobolando.com,,24,3,12,0.333333333
+jackdempsey,479,jack dempsey,,,88,7,182,6.8
+blahutka,480,blahutka,,,12,1,59,0.033333333
+chrisabad-zz,481,Chris Abad,,,8,1,8,0
+AlexJWayne,482,Alex Wayne,,,53,1,60,2.133333333
+nakajima,483,Pat Nakajima,patnakajima@gmail.com,,773,134,173,2.2
+mreid,484,Mark Reid,,,100,10,26,3.692307692
+melo,485,Pedro Melo,melo@simplicidade.org,,276,164,211,0.866666667
+JESii,486,Jon Seidel,,,20,8,61,0.4
+msimkins,487,Mike Simkins,,,10,12,20,0.05
+angelo,488,Angelo,,,33,42,11,0.181818182
+wrenchlabs,489,Wrench Labs,,,1,0,1,1
+jfcouture,490,Jean-Francois Couture,jfcouture@gmail.com,,30,10,12,0.666666667
+ctran,491,Cuong Tran,cuong.tran@gmail.com,,67,4,31,19.6
+garyharan,492,Gary Haran,,,98,78,84,0.533333333
+Zelnox,493,,,,26,7,17,0.588235294
+saimonmoore,494,Saimon Moore,saimonmoore@gmail.com,,77,53,162,0.733333333
+spencer,495,,,,5,1,8,0.25
+santry,496,Sean Santry,,,10,0,23,1.173913043
+urubatan,497,Rodrigo Urubatan Ferreira Jardim,urubatan@gmail.com,,125,4,48,0.9
+kjf,498,Kevin Fagan,,kevinfagan,24,35,2,0
+judofyr,499,Magnus Holm,judofyr@gmail.com,,479,56,196,0.6
+JJ,500,Juan Julián Merelo Guervós,jjmerelo@gmail.com,jjmerelo,966,51,1180,0.9
+tfwright,501,T. Floyd Wright,tfwright@tfwright.info,,42,9,68,0.133333333
+scoop,502,Patrick Lenz,,,39,4,16,2.0625
+rob,503,Rob Gabaree,,,13,2,3,0
+mkhl,505,Martin Kühl,,,159,90,161,0.466666667
+tfwright,501,T. Floyd Wright,tfwright@tfwright.info,,42,9,68,0.133333333
+scoop,502,Patrick Lenz,,,39,4,16,2.0625
+rob,503,Rob Gabaree,,,13,2,3,0
+mkhl,505,Martin Kühl,,,159,90,161,0.466666667
+nmerouze,506,Nicolas Mérouze,,,130,3,24,2.416666667
+franc,507,Franc Paul,franc@crow.za.net,,14,10,37,0.166666667
+sphire,508,Philipp Kruse,kruse@hmi-project.com,,8,4,10,0
+dbr,509,dbr/Ben,,,173,45,73,0.6
+pd,510,Kyle Hargraves,,,76,10,59,1.166666667
+kieranj,511,Kieran Johnson,kieran@invisiblelines.com,,11,1,28,0.607142857
+japj,512,Jeroen Janssen,,,67,7,45,0.4
+atharh,513,Athar Hameed,atharh@gmail.com,,26,21,6,0
+speck,514,Jason Speck,,,18,3,2,0.5
+leemhenson,515,Lee Henson,,,53,24,52,0
+pentikos,516,Don Pinkster,,,14,1,2,0
+rwj-promed,517,Robert Jackson,,,3,0,0,0
+pontus,518,Pontus Freyhult,pontus_github@soua.net,,17,4,97,0.133333333
+shinzui,519,Nadeem Bitar,nadeem.bitar@icloud.com,shinzui,27,22,267,0.033333333
+mehdi,520,,,,4,2,0,0
+mansfiem,521,Matthew Mansfield,,Drunkengrass,9,11,7,0.428571429
+dbcm,522,Delfim Machado,dbcm@profundos.org,,40,25,19,0.526315789
+brett,523,brett,brett@librum.org,,45,222,19,0
+jredville,524,Jim Deville,james.deville@gmail.com,jredville,44,17,86,0.166666667
+mwilliams,525,Matthew Williams,matthew.d.williams@gmail.com,,39,30,25,1.48
+jendrik,526,Jendrik,,,6,1,15,0
+marmbrus,527,Michael Armbrust,,,289,0,22,1.409090909
+auser,529,Ari,me@ari.io,,996,407,394,1.133333333
+fauxparse,530,Matt Powell,fauxparse@gmail.com,fauxparse,41,6,144,1.133333333
+n0ha,531,,viktor.lieskovsky@gmail.com,,0,0,11,1.545454545
+hughbien,532,Hugh Bien,,,21,23,30,1.433333333
+vishnugopal,533,Vishnu Gopal,,,124,0,66,0.4
+ericallam,534,Eric Allam,eric@trigger.dev,maverickdotdev,269,32,168,0.1
+steveh,535,Steve Hoeksema,steve@kotiri.com,,55,9,144,0.466666667
+jpease,536,Justin Pease,,,30,5,20,0.15
+skimua,537,,,,4,37,1,0
+codafoo,538,Codafoo,codafoo@gmail.com,,13,7,14,0
+fusedevice,539,Uros Zekar,uros@fusedevice.com,,6,0,1,1
+NaPs,540,Antoine Millet,,,37,34,25,1.12
+hallski,541,Mikael Hallendal,,,68,6,45,0.6
+aroth,542,Adam Roth,,,28,12,45,0.4
+brainvat,543,Allen Hammock,brainvat@mac.com,,21,6,6,10.5
+schelcj,545,Chris Scheller,schelcj@pobox.com,,12,15,40,0
+drudru,546,Dru Nelson,drudru@gmail.com,,25,0,46,3.566666667
+etng,547,,,,97,20,154,0.1
+bct,548,Brendan Taylor,bct@diffeq.com,,29,29,46,0.166666667
+rmanalan,549,Rich Manalang,,rmanalan,75,27,112,0.366666667
+AndrewO,550,Andrew O'Brien,,,38,18,67,0.2
+njackson,551,Nate Jackson,,,21,0,24,0.541666667
+Sutto,553,Darcy Laycock,sutto@sutto.net,Sutto,347,240,123,2.566666667
+roop,554,Roopesh Chander,roop@roopc.net,,45,1,36,0.7
+ipvideomarketinfo,555,IPVM,,,2,0,1,0
+kad3nce,556,Jedidiah Hurt,,,12,8,54,0.133333333
+marvin,557,marvin,dnoelte@gmail.com,,72,207,82,0.366666667
+critzjm,558,JC,john.critz@gmail.com,,17,0,2,0
+ook,559,Thomas Lecavelier,thomas@lecavelier.name,ookook,54,42,58,0.233333333
+jhill,561,Jason Hill,,,18,0,1,0
+amoeba,563,Bryce Mecum,petridish@gmail.com,brycem,87,110,240,0.366666667
+mbbx6spp,564,Susan Potter,,SusanPotter,488,0,251,0.8
+tomtaylor,565,Tom Taylor,,,239,57,128,0.366666667
+BJClark,566,Will Clark,,,28,12,37,1.633333333
+purzelrakete,567,Rany Keddo,,feldberlin,122,62,8,1.5
+nmeans,568,Nickolas Means,nmeans@gmail.com,nmeans,76,4,63,0.433333333
+alexkwolfe,569,Alex Wolfe,,,18,0,88,0.7
+jaikoo,570,Jonathan Conway,,noodlesinmysand,49,24,13,0.461538462
+timurvafin,571,Timur Vafin,,,44,18,48,0.2
+jarib,572,Jari Bakken,jari.bakken@gmail.com,jarib,328,128,131,2.6
+davie,573,davie moston,daviemoston@gmail.com,,11,3,18,0.722222222
+jdp,574,Justin Poliey,justin.d.poliey@gmail.com,,97,92,44,7.166666667
+scottymac,576,Scotty McMillin,scottmcmillin@gmail.com,,25,13,31,0.2
+komapa,577,Kiril Angov,kiril.angov@gmail.com,,67,76,28,0.607142857
+usergenic,578,Brendan Baldwin,brendan@usergenic.com,,67,27,46,0.166666667
+mikeal,579,Mikeal Rogers,mikeal.rogers@gmail.com,mikeal,4889,104,503,5.033333333
+Shazburg,580,Josh Matthews,,,7,6,16,0.3125
+JohnArgh,581,John P Robitaille,,,13,6,0,0
+wiremine,582,,,,11,2,26,0.038461538
+captproton,583,captproton,rocketeer.captproton@gmail.com,,24,44,326,0.566666667
+ludo,584,Ludo van den Boom,me@ludo.is,,44,1,67,11.7
+arisbartee,585,Aris,arisbartee@gmail.com,,34,82,31,0.066666667
+edallen,586,Ed Allen,old_dm@yahoo.com,edallen,19,19,12,0.833333333
+hatch,587,Nate Hatcher,nate.hatcher@gmail.com,,14,8,8,0.125
+nickpad,588,Nick Dainty,,,18,6,17,0.352941176
+joaovitor,589,Joao Vitor Lacerda Guimaraes,joao.vitor@gmail.com,,114,77,32,0.5
+ckhsponge,590,Chris Hobbs,,,14,3,35,0.566666667
+fd,591,Simon Menke,simon.menke@gmail.com,,112,69,185,0.166666667
+wineq,592,,,,4,0,0,0
+daaku,593,Naitik Shah,,,498,159,190,0.7
+pfig,594,Pedro Figueiredo,,,58,33,133,0.2
+natedaiger,595,Nate Daiger,nate@daiger.com,,7,0,15,0.6
+probablycorey,596,Corey Johnson,corey@void.dev,,741,2,99,0.366666667
+ymendel,597,Yossef Mendelssohn,ymendel@pobox.com,,213,1,43,0.666666667
+jmhodges,598,Jeff Hodges,jeff@somethingsimilar.com,jmhodges,478,30,233,1.133333333
+nickel,599,Juan Gallego IV,juan@gallegoiv.com,,44,15,10,0
+buru,600,Pavlo Zahozhenko,,,9,6,13,0.923076923
+wdperson,601,Mike Riley,,,23,5,24,0.25
+chromakey-io,602,k. noah howerton,noah@chromakey.io,,25,2,19,0.315789474
+jstetser,603,,,,4,0,1,0
+ianloic,604,Ian McKellar,ian@mckellar.org,,131,42,121,0.566666667
+bansalakhil,605,Akhil Bansal,bansalakhil30.10@gmail.com,,23,5,62,0.233333333
+jesseproudman,606,Jesse Proudman,,jesseproudman,42,1,43,0.2
+fantom,607,,,,6,0,0,0
+wdperson,601,Mike Riley,,,23,5,24,0.25
+chromakey-io,602,k. noah howerton,noah@chromakey.io,,25,2,19,0.315789474
+jstetser,603,,,,4,0,1,0
+ianloic,604,Ian McKellar,ian@mckellar.org,,131,42,121,0.566666667
+bansalakhil,605,Akhil Bansal,bansalakhil30.10@gmail.com,,23,5,62,0.233333333
+jesseproudman,606,Jesse Proudman,,jesseproudman,42,1,43,0.2
+fantom,607,,,,6,0,0,0
+h-lame,608,Murray Steele,,,84,0,29,0.689655172
+emilevdb,609,,,,7,1,1,0
+mdub,610,Mike Williams,mdub@dogbiscuit.org,,100,15,102,2.766666667
+martinjandrews,611,Marty Andrews,marty@martyandrews.net,,38,0,9,5.444444444
+wpiekutowski,612,Wojciech Piekutowski,,,26,5,9,0
+lukeredpath,613,Luke Redpath,luke@lukeredpath.co.uk,lukeredpath,564,16,109,4.833333333
+andykent,614,Andy Kent,,,86,1,39,1.6
+codehugger,615,Bjarki Gudlaugsson,,,15,6,26,0.230769231
+aemadrid,616,Adrian Madrid,aemadrid@gmail.com,,21,3,75,0.4
+mulder,617,Nicholas Mulder,nicholas.mulder@gmail.com,,34,17,29,0.103448276
+jeremyboles,618,Jeremy Boles,,,24,0,1,0
+moorbrook,619,Roger Hsueh,,,5,1,3,0
+humandoing,620,Daniel Wintschel,daniel@humandoing.net,humandoing,13,1,4,0
+george,621,George,,g3orge,58,9,16,0.1875
+dramsay,622,Doug Ramsay,,,16,0,27,1.222222222
+jonmagic,623,Jonathan Hoyt,jonmagic@gmail.com,,450,54,178,4.133333333
+chriskilmer,624,Chris Kilmer,christopherkilmer@gmail.com,,9,0,0,0
+zpinter,625,Zachary Pinter,zpinter@gmail.com,,18,1,40,0.333333333
+banderson623,626,Brian Anderson,banderson623@gmail.com,,52,49,78,0.233333333
+bigethan,627,Big Ethan,,,20,3,62,0.166666667
+lmarlow,628,Lee Marlow,,,26,42,76,0.466666667
+jrimmer,629,Jason Rimmer,jason@rimmer.net,,14,3,10,0.1
+olly,630,Oliver Legg,,,39,31,41,0.5
+hookercookerman,631,Richard Hooker,hookercookerman@gmail.com,,43,8,169,0.2
+rubenlozano,632,Ruben Lozano,,rubenlozano,70,144,0,0
+doxavore,633,Doug Mayer,me@doxavore.com,,22,9,13,1
+Bjwebb,634,Bee Webb,,bjwebb67,29,22,94,0.333333333
+daniel,635,Daniel Eriksson,,danieleriksson,56,1,40,0.1
+qerub,636,Christoffer Sawicki,christoffer.sawicki@gmail.com,qerub,94,284,43,0.6
+leavengood,637,Ryan Leavengood,leavengood@gmail.com,,26,0,22,1.136363636
+pjjw,638,peter woodman,peter@nightmeat.club,clango,34,31,115,0.033333333
+barrym,639,Barry Mitchelson,,,18,2,21,0.142857143
+ph,640,Pier-Hugues Pellerin,ph@heykimo.com,,157,144,297,0.066666667
+pbx,641,Paul Bissex,paul@bissex.net,,63,37,26,0.230769231
+fspeirs,642,Fraser Speirs,fraser@speirs.org,,133,11,25,1.28
+fernandoallen,643,Fernando Allen,,,6,2,1,0
+davidsmalley,644,David Smalley,david@litmus.com,,33,6,5,1.6
+njonsson,645,Nils Jonsson,github.com@nilsjonsson.com,,70,131,25,0.52
+ecin,646,ecin,,,38,10,75,0.733333333
+progrium,647,Jeff Lindsay,progrium@gmail.com,progrium,3714,91,257,20.86666667
+jhsu,648,Joe Hsu,jhsu.x1@gmail.com,jhsu,98,78,224,0.466666667
+hipertracker,649,Jaroslaw Zabiello,hipertracker@gmail.com,hipertracker,56,6,116,0.1
+mindy,650,Mindy,,,20,5,6,0
+plainprogrammer,651,James Thompson,james@thomps.onl,plainprogrammer,54,25,53,0.966666667
+jasonf,652,Jason Fiset,jafiset@gmail.com,,4,0,36,0.233333333
+robmitch,653,Rob Mitchell,,,8,0,9,0.444444444
+mlopes,654,Marco Lopes,,,27,6,66,1.233333333
+sxross,655,s.ross,,,7,0,46,2.366666667
+tomislav,656,Tomislav Filipcic,tf@7sols.com,,44,10,10,30.5
+brian,657,Brian Bailey,bbailey@hey.com,bb,20,3,0,0
+stephencelis,658,Stephen Celis,me@stephencelis.com,,5520,36,129,1.9
+gebi,659,Michael Gebetsroither,mgebetsroither@mgit.at,,65,5,82,0.933333333
+intinig,660,Giovanni Intini,intinig@gmail.com,intinig,38,4,79,0.566666667
+benr75,661,Ben Reubenstein,benr@x-cr.com,,36,14,19,0.368421053
+cuiguy,662,,,,3,0,2,0.5
+jimmyjazz,663,James Ross,,,9,1,5,2
+blaix,664,Justin Blake,justin@blaix.com,blaix,81,31,83,0.2
+zachinglis,665,Zach Inglis,zach@superhero-studios.com,zachinglis,150,81,36,3.433333333
+kstewart,666,Kevin Stewart,kevin@kstewart.me,,38,0,5,0
+vidyanand,667,,,,4,0,1,0
+cclow,668,Low Chin Chau,cc@lows.sg,,30,0,37,0.4
+seven1m,669,Tim Morgan,tim@timmorgan.org,timmrgn,714,315,117,19.83333333
+latompa,670,Thomas Olausson,,,12,5,18,0.611111111
+kouky,671,Michael Koukoullis,mike@kouky.org,kouky,100,32,46,0.833333333
+incandescant,672,Joshua G Lock,,,19,31,18,0.111111111
+redinger,673,Chris Redinger,redinger@gmail.com,,102,8,49,1.133333333
+osteele,674,Oliver Steele,steele@osteele.com,osteele,528,9,150,1.1
+bikerduweb,675,Olivier,,,25,0,16,0.8125
+ryward,676,,,,3,0,0,0
+james2m,677,James McCarthy,,,47,46,36,4.4
+jlindley,678,Jim Lindley,mail@jim.io,,45,2,14,0
+dalsgaard,679,Kim Dalsgaard,kim@kimdalsgaard.com,,18,3,55,0.133333333
+grantr,680,Grant Rodgers,grantr@gmail.com,,236,2,109,0.366666667
+jtmxx,681,,,,3,0,0,0
+digitalhobbit,682,Mirko Froehlich,mfroehlich@gmail.com,,29,0,11,0.909090909
+robmack,683,Rob Mack,rob@robmack.com,,24,6,16,0
+russ,684,Russ Smith,russ@bashme.org,,57,21,182,1.833333333
+alexagui,685,Alex Aguilar,alex@eaglepeakweb.com,AlexAguilar18,11,29,20,0.05
+lsegal,686,Loren Segal,lsegal@soen.ca,lsegal,484,1,94,7.366666667
+fazibear,687,Michał Kalbarczyk,fazibear@gmail.com,fazibear,93,37,173,2.366666667
+grosours,688,Guillaume Faure,kyokuma@gmail.com,,9,8,24,0.125
+dermotbrennan,689,Dermot Brennan,dermot.brennan@gmail.com,,12,1,22,0.090909091
+matschaffer,690,Mat Schaffer,mat@schaffer.me,matschaffer,254,10,251,0.133333333
+mazdak,691,,,,5,1,2,0
+bryckbost,692,Brian Ryckbost,bryckbost@gmail.com,,68,49,27,0.481481481
+farcaller,693,Vladimir Pouzanov,,,268,16,264,0.866666667
+lstoll,694,Lincoln Stoll,me@lds.li,,258,6,227,1.433333333
+sbellware,695,Scott Bellware,,,108,17,4,0.25
+caius,696,Caius Durling,,,210,144,332,0.166666667
+dgiunta,697,Dave Giunta,,,35,48,57,0.1
+oleganza,698,Oleg Andreev,,,733,43,93,11.63333333
+nkallen,699,Nick Kallen,,,670,13,68,18.73333333
+heycarsten,700,Carsten Nielsen,heycarsten@gmail.com,,132,133,23,4.608695652
+jokull,701,Jökull Sólberg Auðunsson,jokull@solberg.is,jokull,152,173,95,1.333333333
+gjnoonan,702,Gavin-John Noonan,,,0,0,29,0.068965517
+jparker,703,John Parker,,,11,0,51,0.233333333
+xxgreg,704,Greg Lowe,,,25,0,32,3.733333333
+jimmygoodboy,705,,,,7,1,0,0
+tekkub,706,Tekkub,,,6483,5,22,10
+kaspar,707,Kaspar Lonscher,,,10,3,5,0
+seaofclouds,708,seaofclouds,,seaofclouds,143,26,32,9.9
+jared,709,Jared Haworth,jared@alloycode.com,,10,1,8,0
+delagoya,710,Angel Pizarro,delagoya@gmail.com,delagoya,47,21,34,0.266666667
+necrodome,711,Selem Delul,selem@selem.im,,21,23,55,0.2
+brokendisk,712,Maxwell August Croy,,maxwell,14,22,2,2
+digitalknk,713,Jon Molina,,,24,23,28,0.035714286
+lilyball,714,Lily Ballard,lily@ballards.net,LilyInTech,911,35,157,2
+BrentonEarl,715,Brent,,,9,12,23,0.130434783
+malomalo,716,Jon Bracy,jonbracy@gmail.com,,26,11,52,0.433333333
+peregrine,717,Seth Engelhard,,,12,1,9,0.222222222
+chrislloyd,718,Chris Lloyd,chris@chrislloyd.net,,275,173,10,7.4
+gregbell,719,Greg Bell,,,229,0,27,1.481481481
+pclouds,720,Duy Nguyen,,,187,1,3,1
+yesmar,721,ɹɐɯsǝʎ,yesmar@gmail.com,,10,6,18,0.611111111
+brettg,722,Brett Gibson,,brettdg,20,3,34,0.366666667
+xenith,723,Justin Seabrook-Rocha,xenith@xenith.org,,38,27,9,15.88888889
+martinisoft,724,Aaron Kalin,akalin@martinisoftware.com,martinisoft,112,10,34,0.2
+marc,725,Marc Bellingrath,,,19,12,16,0.0625
+pjb3,726,Paul Barry,pauljbarry3@gmail.com,pjb3,76,57,114,0.866666667
+cvk,727,Gibberish Umbra,speak@gibberish.cyou,,3,8,2,0
+revelation,728,Revelation,,,2,0,24,0.208333333
+xuejm,729,,,,3,0,0,0
+blowmage,730,Mike Moore,mike@blowmage.com,,227,21,113,0.166666667
+gnu-lorien,731,Andrew Sayman,andrew.sayman+github@gmail.com,,10,5,43,0.4
+bledig,732,Bernd Ledig,,,5,0,4,1
+travo,733,Travis Winters,traviswinters@gmail.com,,27,13,6,0.166666667
+schmidt,734,Gregor Schmidt,schmidt@nach-vorne.eu,schmidtwisser,52,40,58,0.366666667
+tschacht,735,,,,3,10,2,0
+christos,736,Christos Zisopoulos,,,71,46,8,0.5
+v15h,737,,,,5,1,12,0
+jasherai,738,Pritesh,pritesh@phatforge.com,,32,74,128,0.833333333
+cylence,739,Moved to github.com/slant,,,8,3,0,0
+rmm5t,740,Ryan McGeary,ryan@mcgeary.org,rmm5t,341,17,210,0.133333333
+quigebo,741,Stephen Wooten,,quigebo,22,4,11,0
+shirkevich,742,Mikhail Shirkov,,,10,6,63,0.233333333
+lukehoersten,743,Luke Hoersten,luke@hoersten.org,lukehoersten,112,0,45,1
+roncohen,744,Ron Cohen,cohen1@gmail.com,roncohen,80,84,60,0.233333333
+Bregor,745,Maxim Filatov,pipopolam@gmail.com,pipopolam,92,35,7,0.285714286
+juretta,746,Stefan Saasen,,stefansaasen,53,33,43,0.966666667
+jney,747,Jean-Sébastien Ney,jeansebastien.ney@gmail.com,,75,340,93,0.166666667
+tom,748,Tom Malone,tom.malone@mac.com,,41,3,11,0.363636364
+mortenbagai,749,Morten Bagai,mortenbagai@gmail.com,,29,0,4,2
+smerickson,750,Steve Erickson,,,8,0,4,0
+lagsalot,751,Brandt Lofton,brandtlofton@gmail.com,,8,12,36,0
+djspiewak,752,Daniel Spiewak,djspiewak@gmail.com,,2273,0,142,2.366666667
+jsgoecke,754,Jason Goecke,jason@goecke.net,,136,11,58,1.6
+myabc,755,Alexander Brandon Coles,,,181,219,171,0.266666667
+stefanoc,756,Stefano Cobianchi,,stefano_c,15,1,8,0
+mde,757,Matthew Eernisse,mde@fleegix.org,,713,10,45,29.83333333
+oliverandrich,758,Oliver Andrich,oliver@andrich.me,,44,15,6,2.5
+baldur,759,Baldur Gudbjornsson,baldur.gudbjornsson@gmail.com,,43,21,60,0.133333333
+ctcherry,760,Chris Cherry,,,39,14,45,0.466666667
+rjspotter,761,Randall Potter,rjspotter@intentionally-blank.com,,20,14,78,0.166666667
+asanghi,762,Aditya Sanghi,aditya.sanghi@risingsuntech.net,,112,75,80,1.033333333
+malkomalko,763,Robert Malko,robmalko@gmail.com,,149,106,144,0.7
+PabloC,764,PabloC,,pablocorral,0,0,8,0
+jerrod,765,Jerrod Blavos,,,25,18,71,22.36666667
+jfreeze,766,Jim Freeze,jimfreeze@gmail.com,jimfreeze,33,0,53,1.066666667
+vigosan,767,Vicent Gozalbes,vigosan@gmail.com,vigosan,56,97,60,1.233333333
+fbrubacher,768,Federico Brubacher,fbrubacher@gmail.com,,41,4,38,0.066666667
+mvanholstyn,769,Mark Van Holstyn,mvanholstyn@gmail.com,,43,2,53,0.133333333
+zach,770,Zach Baker,zach@zachbaker.com,,13,10,27,0.111111111
+lydgate,771,Bryan Kam,github@vo.racio.us,,7,3,17,0.823529412
+alex,772,Alex Gaynor,alex.gaynor@gmail.com,,9709,38,466,0.8
+clupprich,773,Christoph Lupprich,christoph@luppri.ch,clupprich,33,18,88,0.066666667
+jordanbrock,775,Jordan Brock,jordan@brock.id.au,,27,12,68,4.1
+brijohn,776,Brian Johnson,brijohn@gmail.com,,29,0,41,1.233333333
+mahnve,777,Marcus Ahnve,,,25,26,0,0
+peburrows,778,Phil Burrows,github@philburrows.com,peburrows,71,9,68,4.466666667
+booss,779,Alex Boussinet,alex.boussinet@gmail.com,,6,0,4,2.5
+jaf,780,,,,3,0,2,0
+piclez,781,Peter WD,,,0,0,43,0.233333333
+ebello,782,Ernie Bello,ernie@bello.nyc,,68,22,24,0.666666667
+wkeenan,783,Wayne Keenan,,,4,0,0,0
+benslavin,784,Ben Slavin,ben@benslavin.com,,36,11,23,1
+kevinfinlayson,785,Kevin Finlayson,kevin@kevinfinlayson.com,kevinfinlayson,15,11,3,0
+adamsalter,786,Adam Salter,adam@codebright.net,,20,0,13,25.23076923
+joe,787,,,,21,0,5,0.4
+sxh,788,,,,15,5,2,0
+rpheath,789,Ryan Heath,rpheath@gmail.com,,37,3,31,4.166666667
+bordy,790,Chris Rohde,christopher.rohde@gmail.com,,8,6,7,0.285714286
+companygardener,791,Erik Peterson,,,42,27,38,0.866666667
+dusty,792,Dusty Doris,dusty@doris.name,,33,26,74,0.3
+janson,793,Janson Hartliep,,,24,11,9,0
+nexneo,794,Niket Patel,nexneo@gmail.com,,32,6,37,0.466666667
+DimaD,795,Dmitry Dzema,,,26,10,31,0.466666667
+kogent,796,Mark Carey,,,13,4,13,0.230769231
+tarcieri,797,Tony Arcieri,bascule@gmail.com,,1814,34,170,0.066666667
+kfl62,798,Ferenc-Loránt Kiss,kfl62g@gmail.com,,6,0,16,0.125
+mattrenquist,799,,,,5,2,5,0
+lauri,800,,,,7,0,11,1
+jdskufca,801,Joseph Skufca,,,4,1,0,0
+seangeo,802,Sean Geoghegan,sean@seangeo.me,,22,5,22,2.181818182
+jdskufca,801,Joseph Skufca,,,4,1,0,0
+seangeo,802,Sean Geoghegan,sean@seangeo.me,,22,5,22,2.181818182
+apod,804,Alex Podaras,apodaras@gmail.com,,21,5,23,0.043478261
+denis,805,Denis Barushev,barushev+github@gmail.com,,40,34,47,0.1
+znarf,806,François Hodierne,francois@hodierne.net,znarf,201,65,48,0.866666667
+wiktorschmidt,807,Wiktor Schmidt,wiktorschmidt@gmail.com,,33,0,2,0.5
+cmrichards,808,Chris Richards,chris@christopher-richards.net,,6,4,20,0.15
+tarsolya,809,,,,19,7,39,0.2
+vvarp,810,Maciek Szczesniak,,vvarp,31,31,9,2
+daveliu,812,liu wen ju,,,51,19,29,1
+Imbrondir,813,,,,3,0,1,3
+nimms,814,Nimai Etheridge,nimai.e@gmail.com.au,,6,3,3,0
+evs,815,Elliot Schoemaker,evschoemaker@gmail.com,,11,14,4,0.25
+svperfecta,816,Brian Corrigan,,,58,23,15,0.066666667
+akatz,817,Avrohom Katz,iambpentameter@gmail.com,,36,19,107,0.966666667
+rocanion,818,Dan Coutu,coutu@snowy-owl.com,,2,0,2,0.5
+FooBarWidget,819,Hongli Lai,hongli@hongli.nl,,861,0,82,8.866666667
+weepy,820,weepy,jonahfox@gmail.com,weepy,130,23,108,0.7
+bitshape,821,,,,28,5,11,0
+peleteiro,822,Jose Peleteiro,jose@peleteiro.net,,204,145,7,3.285714286
+igor,823,Igor Schwarzmann,schwarzmann@gmail.com,,5,0,3,0.333333333
+miles,824,Miles Forrest,,,36,23,35,0
+wunki,825,Petar Radošević,petar@petar.dev,wunki,92,10,20,4.95
+mkomitee,826,Michael Komitee,mkomitee@gmail.com,,18,1,23,0.391304348
+joergbattermann,828,Jörg Battermann,jb@joergbattermann.com,,31,0,53,0.3
+mutle,829,Mutwin Kraus,,,158,3,62,0.766666667
+baxter,830,Paul Boxley,,,30,9,17,0.176470588
+shanesveller,831,Shane Sveller,,,122,187,55,1.466666667
+brenton,832,Brenton Leanhardt,brenton.leanhardt@gmail.com,,38,0,54,0.2
+zygote,833,Mike,,,18,1,5,0
+peks,834,Martin Zibert,,,15,12,8,0
+EugZol,835,Eugene Zolotarev,eugzol@gmail.com,,37,1,36,0.333333333
+cdb,836,Cameron Booth,,,35,3,45,0.333333333
+DanielVF,837,Daniel Von Fange,,danielvf,110,2,52,1.166666667
+michele,838,Michele Finotto,,,5,0,59,0.133333333
+huxley,839,Patrick Taylor,patricktaylor@mac.com,,20,9,63,0.033333333
+noin,840,Noin Claude,nclaude@gmail.com,,5,0,1,1
+blanco,841,blanco,,,5,16,1,0
+raucao,842,Râu Cao,,,128,33,95,0.4
+galfert,843,Garret Alfert,garret.alfert@gmail.com,,62,38,43,0.066666667
+haikuwebdev,844,,tjstankus+haikuwebdev@gmail.com,,12,0,6,8.833333333
+medic0747,845,,,,3,0,0,0
+natacado,846,Paul Paradise,,natacado,33,11,35,0.733333333
+hotsyk,847,Volodymyr Hotsyk,,,112,120,67,0.3
+keeran,848,Keeran Raj Hawoldar,,,51,9,30,0.133333333
+juliamae,849,Julia Valentine,,,533,72,15,0.666666667
+mphilpot,850,Michael Philpott,,,3,1,13,0.153846154
+mountain,851,Mingli Yuan,mingli.yuan@onecorner.org,mountain,316,710,89,0.266666667
+remash,852,,,,3,0,0,0
+shantanoo,853,शंतनू (Shantanoo),shantanoo@gmail.com,,33,36,68,0.066666667
+janfri,854,janfri,,,20,43,19,3.210526316
+olivM,855,Olivier Mourlevat,olivier.mourlevat@gmail.com,,51,34,94,0.066666667
+cavalle,856,Luismi Cavallé,lmcavalle@gmail.com,cavalle,128,12,20,6.25
+andypearson,857,Andy Pearson,,,50,45,12,0.166666667
+fredlee,858,Fred Lee,lee.fred.1@gmail.com,,30,28,13,0.384615385
+EatenHardship,859,,,,4,0,0,0
+bkudria,860,Benjamin Kudria,ben@kudria.net,,52,3,54,0.333333333
+whynot,861,Jim Bob Pipes,,,14,7,10,0.3
+derekperrault,862,Derek Perrault,derek.perrault@gmail.com,,4,1,1,0
+cpjolicoeur,863,Craig P Jolicoeur,cpjolicoeur@gmail.com,cpjolicoeur,81,11,102,2.566666667
+pager,864,Dmitriy Timokhin,,,18,5,2,0.5
+pengwynn,865,Wynn Netherland,,pengwynn,1109,345,126,3.133333333
+thom,866,Thomas Weibel,thom@ikhono.net,,11,1,66,0.033333333
+sintaxi,867,Brock Whitten,brock@sintaxi.com,sintaxi,901,53,110,15.36666667
+scotu,868,Matteo Scotuzzi,matteo.scotuzzi@gmail.com,scotu,66,74,40,0.2
+peters,869,Peter Rekdal Khan-Sunde,peter.sunde@gmail.com,,135,28,182,0.333333333
+mmmurf,870,Matt Murphy,,,48,84,30,0.1
+thetamind,872,Matthew Boehlig,,thetamind,57,256,63,0.066666667
+spejman,873,Sergio Espeja,,,72,41,36,1.266666667
+alexvetter,874,Alexander Vetter,vettera@gmail.com,,22,44,9,0.888888889
+jiphex,875,James Hannah,,,24,7,71,0.033333333
+larssg,877,Lars G. Sehested,lars@sehested.me,,16,11,30,0.233333333
+lukerandall,878,Luke Randall,,,22,3,61,0.9
+tobinibot,879,Tobin Juday,tobinibot@gmail.com,,9,0,35,0.1
+eugen,880,Eugen Anghel,eugen@syntactic.org,,12,0,34,0.2
+neves,881,Marcos Neves,,,118,1,38,0.466666667
+ragnard,882,Ragnar Dahlén,,,45,10,103,0
+benoitgoby,883,Benoit Goby,,,20,32,0,0
+codeslinger,884,Toby DiPasquale,,,73,51,55,0.033333333
+acidburnz,885,,,,4,0,6,0.166666667
+dennisreimann,886,d11n,mail@dennisreimann.de,,901,225,89,5
+mislav,887,Mislav Marohnić,hi@mislav.net,mislav,4731,22,191,5.166666667
+armitage,888,Milan Zoufal,lord.armitage@gmail.com,,10,9,4,0
+bigbrother,889,Joshua,,,7,2,3,0
+slaytanic,890,Carlos Eduardo Monti,slaytanic@gmail.com,,7,6,19,0
+mattly,891,Matthew Lyon,,,0,0,42,2.033333333
+pyrat,892,Alastair Brunton,,,32,19,107,0.566666667
+rigagoogoo,894,,,,4,0,3,0
+luisbarrueco,895,Luis Barrueco,,,10,4,26,0.076923077
+lucas-xx,896,,,,3,0,0,0
+Val,897,Laurent Vallar,val@zbla.net,,31,27,30,0.4
+hunter,898,Hunter Nield,,hunternield,77,64,9,0.444444444
+gensym,899,David Altenburg,david@gensym.org,,12,4,45,0.233333333
+joseph,900,Joseph Pearson,,,91,5,20,13.25
+benhoskings,901,Ben Hoskings,ben@hoskings.net,,253,5,11,15.90909091
+kennyp,902,Kenny Parnell,k.parnell@gmail.com,,88,10,47,0.266666667
+luke0x,903,Luke Crawford,luke0x@gmail.com,,96,40,27,0.777777778
+harrylove,904,Harry Love,,,8,7,10,0.3
+tohchye,905,Daniel Goh,tohchye@gmail.com,,11,0,15,0.133333333
+r8u,906,night,R8U@RISEUP.NET,nighhhhht,7,24,0,0
+benhoskings,901,Ben Hoskings,ben@hoskings.net,,253,5,11,15.90909091
+kennyp,902,Kenny Parnell,k.parnell@gmail.com,,88,10,47,0.266666667
+luke0x,903,Luke Crawford,luke0x@gmail.com,,96,40,27,0.777777778
+harrylove,904,Harry Love,,,8,7,10,0.3
+tohchye,905,Daniel Goh,tohchye@gmail.com,,11,0,15,0.133333333
+r8u,906,night,R8U@RISEUP.NET,nighhhhht,7,24,0,0
+lukaszcho,907,Jan Kowalski,,,4,0,1,0
+wasnotrice,908,Eric Watson,wasnotrice@gmail.com,,30,2,89,0.033333333
+bartcortooms,909,Bart Cortooms,bart@hiccup.nl,,6,0,3,0.666666667
+ejdraper,910,Elliott Draper,el@kickcode.com,,65,49,48,1.533333333
+shenoudab,911,Shenouda Bertel,shenoudab@mobiThought.com,,52,63,29,2.551724138
+kaitanie,912,Pekka Kaitaniemi,,,12,2,64,0.3
+Norgg,913,Norgg,norgg at (see below),,41,28,65,0.8
+webzense,914,webzense,,,6,0,0,0
+antramm,917,Ant Ramm,,,15,0,48,0.633333333
+amiroff,919,Metin Emiroğlu,amiroff@gmail.com,amiroff,91,107,23,1.391304348
+be9,920,Oleg Dashevskii,olegdashevskii@gmail.com,,88,2,136,4.366666667

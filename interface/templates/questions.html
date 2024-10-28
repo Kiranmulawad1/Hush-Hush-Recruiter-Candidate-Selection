@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Questions</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <br>
+        <div class="question-container">
+            <div>
+            <h2>Answer the following questions</h2>
+        <form action="{{ url_for('submit_answers') }}" method="POST">
+            <div style="">
+                <label for="question1">
+                    1. Write a Python function named `fibonacci` that returns the nth Fibonacci number. Use memoization to optimize your function. 
+                    Example: fibonacci(6) should return 8.
+                </label>
+                
+                <textarea id="question1" name="question1" rows="4" cols="50" required></textarea>
+            </div>
+            <div>
+                <label for="question2">
+                    2. Write a Python function named `find_missing_number` that takes a list of integers from 1 to n (one number is missing) and returns the missing number.
+                    Example: find_missing_number([1, 2, 4, 5, 6], 6) should return 3.
+                </label>
+                <textarea id="question2" name="question2" rows="4" cols="50" required></textarea>
+            </div>
+            <div>
+                <label for="question3">
+                    3. Write a Python function named `is_balanced` that checks if a string containing various types of parentheses ({}, [], ()) is balanced.
+                    Example: is_balanced("{[()]}") should return True.
+                </label>
+                <textarea id="question3" name="question3" rows="4" cols="50" required></textarea>
+            </div>
+            <button type="submit">Submit</button>
+        </form>
+        <form action="{{ url_for('logout') }}" method="GET" style="margin-top: 20px;">
+            <button type="submit">Logout</button>
+        </form>
+    </div>
+</div>
+</body>
+</html>

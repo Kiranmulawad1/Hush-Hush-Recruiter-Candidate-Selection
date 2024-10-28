@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ user.name }}'s Responses</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+  </head>
+  <body>
+    <div>
+      <div class="response-container">
+        <h2>{{ user.name }}'s Responses</h2>
+        <p>Email: {{ user.email }}</p>
+
+        <div>
+          <h4>1. Code for Question 1</h4>
+          <pre>{{ user.q1_code }}</pre>
+        </div>
+        <div>
+          <h4>2. Code for Question 2</h4>
+          <pre>{{ user.q2_code }}</pre>
+        </div>
+        <div>
+          <h4>3. Code for Question 3</h4>
+          <pre>{{ user.q3_code }}</pre>
+        </div>
+        <a href="{{ url_for('view_responses') }}">Back to User List</a>
+        <form
+          action="{{ url_for('select_candidate', user_id=user.id) }}"
+          method="POST"
+        >
+          <button type="submit">Select Candidate</button>
+        </form>
+      </div>
+    </div>
+  </body>
+</html>

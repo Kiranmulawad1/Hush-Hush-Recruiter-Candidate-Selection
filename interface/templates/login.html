@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Candidate Login</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+  </head>
+  <body>
+    <header class="header-nav">
+      <nav>
+        <ul class="nav-links">
+          <li>
+            <a href="{{ url_for('tech_manager_login') }}">Admin Login</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <div class="login-container">
+      <h2>Candidate Login</h2>
+      <form action="{{ url_for('login') }}" method="POST">
+        <div class="input-group">
+          <label for="username">Username</label>
+          <input type="text" id="username" name="username" required />
+        </div>
+        <div class="input-group">
+          <label for="password">Password</label>
+          <input type="password" id="password" name="password" required />
+        </div>
+        <button type="submit">Login</button>
+      </form>
+    </div>
+  </body>
+</html>

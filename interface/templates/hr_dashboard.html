@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HR Manager Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    <script>
+        function showMessage() {
+            var message = document.getElementById('mailSuccessMessage');
+            if (message) {
+                message.style.display = 'block';
+                setTimeout(function() {
+                    message.style.display = 'none';
+                }, 3000);
+            }
+        }
+    </script>
+</head>
+<body onload="showMessage()">
+    <div class="dashboard-container">
+        <h2>HR Manager Dashboard</h2>
+
+        {% if request.args.get('mail_sent') %}
+        <div id="mailSuccessMessage" style="display:none; color: green;">
+            Mail sent successfully!
+        </div>
+        {% endif %}
+        <h3>User Details</h3>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Selected</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for user in users %}
+                <tr>
+                    <td>{{ user.id }}</td>
+                    <td>{{ user.name }}</td>
+                    <td>{{ user.email }}</td>
+                    <td>{{ 'Yes' if user.selected else 'No' }}</td>
+                    <td>
+                         <form action="{{ url_for('send_mail', user_id=user.id) }}" method="POST">
+                            <button type="submit">Send Mail</button>
+                        </form>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <form action="{{ url_for('hr_logout') }}" method="GET">
+            <button type="submit">Logout</button>
+        </form>
+    </div>
+</body>
+</html>
